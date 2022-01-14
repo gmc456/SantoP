@@ -1,0 +1,15 @@
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\bin\Debug\net5.0\SantoPecado.Shared.deps.json
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\bin\Debug\net5.0\SantoPecado.Shared.dll
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\bin\Debug\net5.0\ref\SantoPecado.Shared.dll
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\bin\Debug\net5.0\SantoPecado.Shared.pdb
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\bin\Debug\net5.0\SantoPecado.ComponentsLibrary.dll
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\bin\Debug\net5.0\SantoPecado.ComponentsLibrary.pdb
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\obj\Debug\net5.0\SantoPecado.Shared.csproj.AssemblyReference.cache
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\obj\Debug\net5.0\SantoPecado.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\obj\Debug\net5.0\SantoPecado.Shared.AssemblyInfoInputs.cache
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\obj\Debug\net5.0\SantoPecado.Shared.AssemblyInfo.cs
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\obj\Debug\net5.0\SantoPecado.Shared.csproj.CoreCompileInputs.cache
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\obj\Debug\net5.0\SantoPecado.Shared.csproj.CopyComplete
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\obj\Debug\net5.0\SantoPecado.Shared.dll
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\obj\Debug\net5.0\ref\SantoPecado.Shared.dll
+C:\Users\lelga\OneDrive\Escritorio\MASTER\DESARROLLO APP-WEB\blazor-workshop\save-points\01-Components-and-layout\SantoPecado.Shared\obj\Debug\net5.0\SantoPecado.Shared.pdb
